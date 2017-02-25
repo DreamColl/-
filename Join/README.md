@@ -18,7 +18,7 @@ TODO
 2. 会翻墙、并善于使用搜索引擎、有阅读文档的习惯（阅读英文文档更佳）
 3. 前端方向 HTML、CSS、JS的基础扎实，阅读过 MDN 或 w3schools更佳（英文网站，不是中文w3school）
 4. 后端方向 TODO
-5. 能使用GitHub协作
+5. 能使用GitHub协作，能用Markdown写文档更佳
 ```
 加分项：
 
