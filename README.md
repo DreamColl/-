@@ -6,7 +6,7 @@
 ##### 教育经历
     2012.9-2016.6 本科 中国矿业大学（北京）化工专业
 ##### 专业技能
-    webpack、ES6、Vue、dJango、Jquery、git
+    webpack、ES6、Vue、dJango、jQuery、git
 ##### 求职期望
     工作地点 深圳>北京=杭州>其他城市
 

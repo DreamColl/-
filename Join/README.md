@@ -16,16 +16,16 @@ TODO
 ```
 1. C语言85分以上（杭州和上海的同学可以降5分录取）
 2. 会翻墙、并善于使用搜索引擎、有阅读文档的习惯（阅读英文文档更佳）
-3. （前端方向）HTML、CSS、JS的基础扎实，并阅读过 MDN 或 w3schools（英文网站，不是中文w3school）
-4. （后端方向）TODO
+3. 前端方向 HTML、CSS、JS的基础扎实，阅读过 MDN 或 w3schools更佳（英文网站，不是中文w3school）
+4. 后端方向 TODO
 5. 能使用GitHub协作
 ```
 加分项：
 
 ```
 前端：
-1. 使用过Vue或React
-2. 阅读过JavaScript权威指南或CSS权威指南中的某一本（两本都读过最好）
+1. 熟悉jQuery，使用过Vue或React
+2. 阅读过《JavaScript权威指南》或《CSS权威指南》（两本都读过更好）
 3. 熟悉网络协议
 4. 有作品链接
 
