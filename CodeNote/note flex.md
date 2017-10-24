@@ -113,4 +113,11 @@ align-self:auto | flex-start | flex-end | center | baseline | stretch 属性同a
 会对齐当前 flex 行中的 flex 元素，并覆盖 align-items 的值. 如果任何 flex 元素的侧轴方向 margin 值设置为 auto，则会忽略 align-self。
 ```
 
-### 1.4.[mdn文档](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
+### 1.4.参考文档
+
+1.4.1.[**mdn文档**](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
+
+1.4.2.[**A Complete Guide to Flexbox**](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+1.4.3.[**Flex 布局教程：实例篇**](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+
