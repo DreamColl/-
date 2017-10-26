@@ -44,4 +44,18 @@
 
    ​
 
-3. ​
+3. **Selectors Level 3**
+
+   ```css
+   子串匹配的属性选择器， E[attribute^="value"]， E[attribute$="value"]， E[attribute*="value"]
+
+   新的伪类：:target， :enabled 和 :disabled， :checked， :indeterminate， :root， :nth-child 和 :nth-last-child， :nth-of-type 和 :nth-last-of-type， :last-child， :first-of-type 和 :last-of-type， :only-child 和 :only-of-type， :empty， 和 :not。
+
+   伪元素使用两个冒号而不是一个来表示：:after 变为 ::after， :before 变为 ::before， :first-letter 变为 ::first-letter， 还有 :first-line 变为 ::first-line。
+
+   新的 general sibling combinator(普通兄弟选择器)  ( h1~pre )。
+   ```
+
+   ​
+
+4. ​
