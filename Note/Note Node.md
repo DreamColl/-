@@ -11,7 +11,15 @@ process.cwd(): 总是返回运行 node 命令时所在的文件夹的绝对路�
 require(./)和__dirname 的效果相同
 ```
 
-##### 2.AMD, CMD, module.exports, export
+##### 2.AMD, CMD, module.exports, export,CommonJS
+
+```
+AMD 提前执行（依赖前置）requireJs
+CMD 延迟执行（依赖就近）seajs
+ES6 Modules
+```
+
+
 
 ##### 3.Install mongodb
 
