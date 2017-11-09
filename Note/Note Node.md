@@ -13,4 +13,10 @@ require(./)和__dirname 的效果相同
 
 ##### 2.AMD, CMD, module.exports, export
 
-##### 3.install mongodb
+##### 3.Install mongodb
+
+```
+sudo mkdir -p /data/db
+sudo chown -R $USER /data/db
+```
+
