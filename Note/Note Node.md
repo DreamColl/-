@@ -11,3 +11,6 @@ process.cwd(): 总是返回运行 node 命令时所在的文件夹的绝对路�
 require(./)和__dirname 的效果相同
 ```
 
+##### 2.AMD, CMD, module.exports, export
+
+##### 3.install mongodb
