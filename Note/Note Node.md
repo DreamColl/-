@@ -19,12 +19,21 @@ CMD 延迟执行（依赖就近）seajs
 ES6 Modules
 ```
 
-
-
 ##### 3.Install mongodb
 
 ```
 sudo mkdir -p /data/db
 sudo chown -R $USER /data/db
+
+rm /data/db/mongod.lock
+
+这里有mongo和mongod两个命令
+使用mongod命令先启动本地的mongo服务
+```
+
+##### 4.启动supervisor
+
+```
+supervisor --harmony index
 ```
 
