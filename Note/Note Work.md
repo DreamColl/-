@@ -31,3 +31,10 @@ const Foo = resolve => require(['./Foo.vue'], resolve) //AMD风格
  const Baz = r => require.ensure([], () => r(require('./Baz.vue')), 'group-foo')
 ```
 
+2.装饰器
+
+```
+作用于类、类属性
+增加新行为但不修改函数
+```
+
